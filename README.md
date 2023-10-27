@@ -1,2 +1,2 @@
 # Resturant
-You will be served the cooking by MUI Goku.
+Hacktoberfest. You will be served the cooking by MUI Goku.
